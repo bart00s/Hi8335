@@ -1,5 +1,5 @@
 # Hi8335
-Hi, that's my pytho autostart app for GNU/Linux.
+Hi, that's my python autostart app for GNU/Linux.
 # Installation
 ```
 sudo git clone https://github.com/bart00s/Hi8335.git
